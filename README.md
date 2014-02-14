@@ -62,3 +62,7 @@ webot send event      # 调试事件消息
 [@atian](https://github.com/atian25)重构并扩展为 0.2 版本。目前的测试用例也大部分由他完成。
 
 [weixin-robot] 使用了 [@JacksonTian](https://github.com/JacksonTian) 的 [wechat](https://github.com/node-webot/wechat) 组件。
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ktmud/weixin-robot-example/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
